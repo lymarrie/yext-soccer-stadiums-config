@@ -1,0 +1,59 @@
+{
+  "$id": "stamford-bridge",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "London",
+      "countryCode": "GB",
+      "line1": "Fulham Rd.",
+      "postalCode": "SW6 1HS"
+    },
+    "addressHidden": false,
+    "description": "Stamford Bridge is a football stadium in Fulham, adjacent to the borough of Chelsea in West London. It is the home of Premier League club Chelsea. With a capacity of 40,343, it is the ninth largest venue of the 2023–24 Premier League season and the eleventh largest football stadium in England.",
+    "mainPhone": "+443718111955",
+    "name": "Stamford Bridge",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 2448,
+          "thumbnails": [
+            {
+              "height": 2448,
+              "url": "http://a.mktgcdn.com/p/2Bz-k3xgeJst9jJcsgX9BckS56asEVzYhK5hKb-ZKCA/3264x2448.jpg",
+              "width": 3264
+            },
+            {
+              "height": 1425,
+              "url": "http://a.mktgcdn.com/p/2Bz-k3xgeJst9jJcsgX9BckS56asEVzYhK5hKb-ZKCA/1900x1425.jpg",
+              "width": 1900
+            },
+            {
+              "height": 464,
+              "url": "http://a.mktgcdn.com/p/2Bz-k3xgeJst9jJcsgX9BckS56asEVzYhK5hKb-ZKCA/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/2Bz-k3xgeJst9jJcsgX9BckS56asEVzYhK5hKb-ZKCA/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "http://a.mktgcdn.com/p/2Bz-k3xgeJst9jJcsgX9BckS56asEVzYhK5hKb-ZKCA/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/2Bz-k3xgeJst9jJcsgX9BckS56asEVzYhK5hKb-ZKCA/3264x2448.jpg",
+          "width": 3264
+        }
+      }
+    ],
+    "slug": "[[name]]",
+    "timezone": "Europe/London"
+  },
+  "entityType": "location",
+  "labels": [
+    "soccerStadium"
+  ]
+}

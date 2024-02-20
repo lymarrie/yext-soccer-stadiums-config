@@ -1,0 +1,54 @@
+{
+  "$id": "anfield",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Liverpool",
+      "countryCode": "GB",
+      "line1": "Anfield Rd",
+      "postalCode": "L4 0TH"
+    },
+    "addressHidden": false,
+    "description": "Anfield is a football stadium in Anfield, Liverpool, England, which has a seating capacity of 60,725, making it the fifth largest football stadium in England. It has been the home of Liverpool since their formation in 1892. It was originally the home of Everton from 1884 to 1891, before they moved to Goodison Park after a dispute with the club president.",
+    "mainPhone": "+441512606677",
+    "name": "Anfield",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 1200,
+          "thumbnails": [
+            {
+              "height": 1200,
+              "url": "http://a.mktgcdn.com/p/0AWEZBbnE-pSGE0Z9chKGBSbcnvHoJ1snj6ji6J9sB0/1200x1200.jpg",
+              "width": 1200
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/0AWEZBbnE-pSGE0Z9chKGBSbcnvHoJ1snj6ji6J9sB0/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/0AWEZBbnE-pSGE0Z9chKGBSbcnvHoJ1snj6ji6J9sB0/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/0AWEZBbnE-pSGE0Z9chKGBSbcnvHoJ1snj6ji6J9sB0/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/0AWEZBbnE-pSGE0Z9chKGBSbcnvHoJ1snj6ji6J9sB0/1200x1200.jpg",
+          "width": 1200
+        }
+      }
+    ],
+    "slug": "[[name]]",
+    "timezone": "Europe/London"
+  },
+  "entityType": "location",
+  "labels": [
+    "soccerStadium"
+  ]
+}

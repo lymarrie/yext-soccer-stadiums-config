@@ -1,0 +1,30 @@
+{
+  "$id": "1358701542",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "Soccer Stadiums - U.K. Only",
+  "filter": {
+    "entityType": [
+      {
+        "entityTypeId": [
+          "location"
+        ],
+        "type": "IS"
+      }
+    ],
+    "geo": [
+      {
+        "miles": 10.0,
+        "text": "United Kingdom",
+        "type": "IN"
+      }
+    ],
+    "labels": [
+      {
+        "labelId": [
+          "soccerStadium"
+        ],
+        "type": "INCLUDES"
+      }
+    ]
+  }
+}

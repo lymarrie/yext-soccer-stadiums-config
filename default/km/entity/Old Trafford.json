@@ -1,0 +1,54 @@
+{
+  "$id": "Old Trafford",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Manchester",
+      "countryCode": "GB",
+      "line1": "Sir Matt Busby Way",
+      "postalCode": "M16 0RA"
+    },
+    "addressHidden": false,
+    "description": "Old Trafford is a football stadium in Old Trafford, Greater Manchester, England, and the home of Manchester United. With a capacity of 74,310 it is the largest club football stadium (and second-largest football stadium overall after Wembley Stadium) in the United Kingdom, and the twelfth-largest in Europe. It is about 0.5 miles (800 m) from Old Trafford Cricket Ground and the adjacent tram stop.",
+    "mainPhone": "+441616767770",
+    "name": "Old Trafford",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 900,
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "http://a.mktgcdn.com/p/OTrMYSOl0O6Il24SifF40JLFu6I-XTSTNlqm93tPuPA/1600x900.jpg",
+              "width": 1600
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/OTrMYSOl0O6Il24SifF40JLFu6I-XTSTNlqm93tPuPA/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "http://a.mktgcdn.com/p/OTrMYSOl0O6Il24SifF40JLFu6I-XTSTNlqm93tPuPA/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/OTrMYSOl0O6Il24SifF40JLFu6I-XTSTNlqm93tPuPA/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/OTrMYSOl0O6Il24SifF40JLFu6I-XTSTNlqm93tPuPA/1600x900.jpg",
+          "width": 1600
+        }
+      }
+    ],
+    "slug": "[[name]]",
+    "timezone": "Europe/London"
+  },
+  "entityType": "location",
+  "labels": [
+    "soccerStadium"
+  ]
+}

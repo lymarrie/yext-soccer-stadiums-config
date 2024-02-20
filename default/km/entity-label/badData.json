@@ -1,0 +1,5 @@
+{
+  "$id": "badData",
+  "$schema": "https://schema.yext.com/config/km/entity-label/v1",
+  "name": "bad data"
+}

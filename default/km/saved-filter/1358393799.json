@@ -1,0 +1,15 @@
+{
+  "$id": "1358393799",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "Soccer Stadiums - Bad Data",
+  "filter": {
+    "labels": [
+      {
+        "labelId": [
+          "badData"
+        ],
+        "type": "INCLUDES"
+      }
+    ]
+  }
+}

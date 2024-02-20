@@ -1,0 +1,88 @@
+{
+  "$id": "wembley",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "London",
+      "countryCode": "GB",
+      "line1": "Wembley Stadium",
+      "postalCode": "HA9 0WS"
+    },
+    "addressHidden": false,
+    "description": "Wembley Stadium (branded as Wembley Stadium connected by EE for sponsorship reasons) is a football stadium in Wembley, London. It opened in 2007 on the site of the original Wembley Stadium, which had stood from 1923 until 2003. The stadium hosts major football matches including home matches of the England national football team, and the FA Cup Final. Wembley Stadium is owned by the governing body of English football, the Football Association (the FA), whose headquarters are in the stadium, through its subsidiary Wembley National Stadium Ltd (WNSL). With 90,000 seats, it is the largest stadium in the UK and the second-largest stadium in Europe.",
+    "mainPhone": "+448001699933",
+    "name": "Wembley Stadium",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 899,
+          "thumbnails": [
+            {
+              "height": 899,
+              "url": "http://a.mktgcdn.com/p/EjoYw9N9TfeuGY0V71F-iTyr48bOtU-kCJCh_y_sStM/1200x899.jpg",
+              "width": 1200
+            },
+            {
+              "height": 464,
+              "url": "http://a.mktgcdn.com/p/EjoYw9N9TfeuGY0V71F-iTyr48bOtU-kCJCh_y_sStM/619x464.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/EjoYw9N9TfeuGY0V71F-iTyr48bOtU-kCJCh_y_sStM/600x450.jpg",
+              "width": 600
+            },
+            {
+              "height": 147,
+              "url": "http://a.mktgcdn.com/p/EjoYw9N9TfeuGY0V71F-iTyr48bOtU-kCJCh_y_sStM/196x147.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/EjoYw9N9TfeuGY0V71F-iTyr48bOtU-kCJCh_y_sStM/1200x899.jpg",
+          "width": 1200
+        }
+      },
+      {
+        "image": {
+          "height": 2160,
+          "thumbnails": [
+            {
+              "height": 2160,
+              "url": "http://a.mktgcdn.com/p/248MDr6JfjNGNCyp2n3FU5wBQ2AYoM5pSUm-F-6et_o/3840x2160.jpg",
+              "width": 3840
+            },
+            {
+              "height": 1069,
+              "url": "http://a.mktgcdn.com/p/248MDr6JfjNGNCyp2n3FU5wBQ2AYoM5pSUm-F-6et_o/1900x1069.jpg",
+              "width": 1900
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/248MDr6JfjNGNCyp2n3FU5wBQ2AYoM5pSUm-F-6et_o/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "http://a.mktgcdn.com/p/248MDr6JfjNGNCyp2n3FU5wBQ2AYoM5pSUm-F-6et_o/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/248MDr6JfjNGNCyp2n3FU5wBQ2AYoM5pSUm-F-6et_o/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/248MDr6JfjNGNCyp2n3FU5wBQ2AYoM5pSUm-F-6et_o/3840x2160.jpg",
+          "width": 3840
+        }
+      }
+    ],
+    "slug": "[[name]]",
+    "timezone": "Europe/London"
+  },
+  "entityType": "location",
+  "labels": [
+    "soccerStadium"
+  ]
+}

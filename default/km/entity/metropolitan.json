@@ -1,0 +1,69 @@
+{
+  "$id": "metropolitan",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Madrid",
+      "countryCode": "ES",
+      "line1": "Av. de Luis Aragonés",
+      "postalCode": "28022"
+    },
+    "addressHidden": false,
+    "description": "Metropolitano Stadium, also referred to as Cívitas Metropolitano for sponsorship reasons, is a stadium in Madrid, Spain. It has been the home stadium of Atlético Madrid since the 2017–18 season. It is located in the Rosas neighbourhood, in the San Blas-Canillejas district.",
+    "mainPhone": "+34917260403",
+    "name": "Metropolitan Stadium",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 900,
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "http://a.mktgcdn.com/p/g6xUZaLXt9_EZuG7ChchvVnYD0yG3TpgR56MMD1vrPY/1600x900.jpg",
+              "width": 1600
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/g6xUZaLXt9_EZuG7ChchvVnYD0yG3TpgR56MMD1vrPY/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "http://a.mktgcdn.com/p/g6xUZaLXt9_EZuG7ChchvVnYD0yG3TpgR56MMD1vrPY/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/g6xUZaLXt9_EZuG7ChchvVnYD0yG3TpgR56MMD1vrPY/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/g6xUZaLXt9_EZuG7ChchvVnYD0yG3TpgR56MMD1vrPY/1600x900.jpg",
+          "width": 1600
+        }
+      }
+    ],
+    "slug": "[[name]]",
+    "timezone": "Europe/Madrid"
+  },
+  "entityType": "location",
+  "labels": [
+    "soccerStadium"
+  ],
+  "alternateProfiles": [
+    {
+      "locale": "es",
+      "content": {
+        "address": {
+          "city": "Madrid",
+          "countryCode": "ES",
+          "line1": "Av. de Luis Aragonés",
+          "postalCode": "28022",
+          "region": "BadDataDrid (province shouldn\u0027t be here)"
+        },
+        "addressHidden": false
+      }
+    }
+  ]
+}

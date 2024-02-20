@@ -1,0 +1,109 @@
+{
+  "$id": "camp-nou",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Barcelona",
+      "countryCode": "ES",
+      "line1": "C/ d\u0027Arístides Maillol",
+      "postalCode": "08028",
+      "region": "Barcelona"
+    },
+    "addressHidden": false,
+    "description": "Camp Nou, meaning New Field, often referred to in English as the Nou Camp), branded as Spotify Camp Nou for sponsorship reasons, is an under-renovation stadium home of La Liga club Barcelona since its opening in 1957. With a planned seating capacity of 105,000, it will be the stadium with the largest capacity in Spain and Europe, and the second largest football stadium in the world.",
+    "mainPhone": "+34902189900",
+    "name": "Camp Nou",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 1200,
+          "thumbnails": [
+            {
+              "height": 1200,
+              "url": "http://a.mktgcdn.com/p/c0ymJfwG7foNvwqS-IboFB0gJqATTTUF9oHBDp4yfVU/2000x1200.jpg",
+              "width": 2000
+            },
+            {
+              "height": 1140,
+              "url": "http://a.mktgcdn.com/p/c0ymJfwG7foNvwqS-IboFB0gJqATTTUF9oHBDp4yfVU/1900x1140.jpg",
+              "width": 1900
+            },
+            {
+              "height": 371,
+              "url": "http://a.mktgcdn.com/p/c0ymJfwG7foNvwqS-IboFB0gJqATTTUF9oHBDp4yfVU/619x371.jpg",
+              "width": 619
+            },
+            {
+              "height": 360,
+              "url": "http://a.mktgcdn.com/p/c0ymJfwG7foNvwqS-IboFB0gJqATTTUF9oHBDp4yfVU/600x360.jpg",
+              "width": 600
+            },
+            {
+              "height": 118,
+              "url": "http://a.mktgcdn.com/p/c0ymJfwG7foNvwqS-IboFB0gJqATTTUF9oHBDp4yfVU/196x118.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/c0ymJfwG7foNvwqS-IboFB0gJqATTTUF9oHBDp4yfVU/2000x1200.jpg",
+          "width": 2000
+        }
+      },
+      {
+        "image": {
+          "height": 3712,
+          "thumbnails": [
+            {
+              "height": 3712,
+              "url": "http://a.mktgcdn.com/p/-PlDg0PHoA5MkhkAFGEjlYePnjmfhKC-acb1I-wUP7k/5568x3712.jpg",
+              "width": 5568
+            },
+            {
+              "height": 1267,
+              "url": "http://a.mktgcdn.com/p/-PlDg0PHoA5MkhkAFGEjlYePnjmfhKC-acb1I-wUP7k/1900x1267.jpg",
+              "width": 1900
+            },
+            {
+              "height": 413,
+              "url": "http://a.mktgcdn.com/p/-PlDg0PHoA5MkhkAFGEjlYePnjmfhKC-acb1I-wUP7k/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "http://a.mktgcdn.com/p/-PlDg0PHoA5MkhkAFGEjlYePnjmfhKC-acb1I-wUP7k/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "http://a.mktgcdn.com/p/-PlDg0PHoA5MkhkAFGEjlYePnjmfhKC-acb1I-wUP7k/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/-PlDg0PHoA5MkhkAFGEjlYePnjmfhKC-acb1I-wUP7k/5568x3712.jpg",
+          "width": 5568
+        }
+      }
+    ],
+    "slug": "[[name]]",
+    "timezone": "Europe/Madrid"
+  },
+  "entityType": "location",
+  "labels": [
+    "badData",
+    "soccerStadium"
+  ],
+  "alternateProfiles": [
+    {
+      "locale": "es",
+      "content": {
+        "address": {
+          "city": "BadDataCelona",
+          "countryCode": "ES",
+          "line1": "C/ d\u0027Arístides Maillol",
+          "postalCode": "08028"
+        },
+        "addressHidden": false
+      }
+    }
+  ]
+}

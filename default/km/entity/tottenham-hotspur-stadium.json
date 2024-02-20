@@ -1,0 +1,59 @@
+{
+  "$id": "tottenham-hotspur-stadium",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "London",
+      "countryCode": "GB",
+      "line1": "782 High Rd",
+      "postalCode": "N17 0BX"
+    },
+    "addressHidden": false,
+    "description": "Tottenham Hotspur Stadium is the home of Premier League club Tottenham Hotspur in north London, replacing the club\u0027s previous ground, White Hart Lane. With a seating capacity of 62,850, it is the 3rd largest football stadium in England and the largest club ground in London. It is designed to be a multi-purpose stadium and is the home of the NFL in the UK. It features the world\u0027s first dividing, retractable football pitch, which reveals a synthetic turf field underneath for NFL London Games, concerts and other events.",
+    "mainPhone": "+443448440102",
+    "name": "Tottenham Hotspur Stadium",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 1080,
+          "thumbnails": [
+            {
+              "height": 1080,
+              "url": "http://a.mktgcdn.com/p/peJzSi4v8VXlNH4JkNOUBueK-LcaG5F6SjFYvB-KGVg/1920x1080.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1069,
+              "url": "http://a.mktgcdn.com/p/peJzSi4v8VXlNH4JkNOUBueK-LcaG5F6SjFYvB-KGVg/1900x1069.jpg",
+              "width": 1900
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/peJzSi4v8VXlNH4JkNOUBueK-LcaG5F6SjFYvB-KGVg/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "http://a.mktgcdn.com/p/peJzSi4v8VXlNH4JkNOUBueK-LcaG5F6SjFYvB-KGVg/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/peJzSi4v8VXlNH4JkNOUBueK-LcaG5F6SjFYvB-KGVg/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/peJzSi4v8VXlNH4JkNOUBueK-LcaG5F6SjFYvB-KGVg/1920x1080.jpg",
+          "width": 1920
+        }
+      }
+    ],
+    "slug": "[[name]]",
+    "timezone": "Europe/London"
+  },
+  "entityType": "location",
+  "labels": [
+    "soccerStadium"
+  ]
+}

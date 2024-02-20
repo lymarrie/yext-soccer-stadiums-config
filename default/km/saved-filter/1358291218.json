@@ -1,0 +1,23 @@
+{
+  "$id": "1358291218",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "Soccer Stadiums - All",
+  "filter": {
+    "entityType": [
+      {
+        "entityTypeId": [
+          "location"
+        ],
+        "type": "IS"
+      }
+    ],
+    "labels": [
+      {
+        "labelId": [
+          "soccerStadium"
+        ],
+        "type": "INCLUDES"
+      }
+    ]
+  }
+}

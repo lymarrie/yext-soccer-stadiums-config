@@ -1,0 +1,100 @@
+{
+  "$id": "bernabeu",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Madrid",
+      "countryCode": "ES",
+      "line1": "Av. de Concha Espina",
+      "postalCode": "28036",
+      "region": "Madrid"
+    },
+    "addressHidden": false,
+    "description": "Santiago Bernabéu Stadium, is a football stadium in Madrid, Spain. With a seating capacity of 85,000+, it has the second-largest seating capacity for a football stadium in Spain. It has been the home stadium of Real Madrid since its completion in 1947.",
+    "mainPhone": "+34913984300",
+    "name": "Santiago Bernabéu Stadium",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 800,
+          "thumbnails": [
+            {
+              "height": 800,
+              "url": "http://a.mktgcdn.com/p/7vkRQse2UndnnZ18LdhAhtGBia_P_Wp0CHDhyBfC480/1200x800.jpg",
+              "width": 1200
+            },
+            {
+              "height": 413,
+              "url": "http://a.mktgcdn.com/p/7vkRQse2UndnnZ18LdhAhtGBia_P_Wp0CHDhyBfC480/619x413.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "http://a.mktgcdn.com/p/7vkRQse2UndnnZ18LdhAhtGBia_P_Wp0CHDhyBfC480/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "http://a.mktgcdn.com/p/7vkRQse2UndnnZ18LdhAhtGBia_P_Wp0CHDhyBfC480/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/7vkRQse2UndnnZ18LdhAhtGBia_P_Wp0CHDhyBfC480/1200x800.jpg",
+          "width": 1200
+        }
+      },
+      {
+        "image": {
+          "height": 1066,
+          "thumbnails": [
+            {
+              "height": 1066,
+              "url": "http://a.mktgcdn.com/p/I8fe9H8t7F_EoYLBh0g9tgTxRlsUxjUI838FRoUgdx8/1600x1066.jpg",
+              "width": 1600
+            },
+            {
+              "height": 412,
+              "url": "http://a.mktgcdn.com/p/I8fe9H8t7F_EoYLBh0g9tgTxRlsUxjUI838FRoUgdx8/619x412.jpg",
+              "width": 619
+            },
+            {
+              "height": 400,
+              "url": "http://a.mktgcdn.com/p/I8fe9H8t7F_EoYLBh0g9tgTxRlsUxjUI838FRoUgdx8/600x400.jpg",
+              "width": 600
+            },
+            {
+              "height": 131,
+              "url": "http://a.mktgcdn.com/p/I8fe9H8t7F_EoYLBh0g9tgTxRlsUxjUI838FRoUgdx8/196x131.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/I8fe9H8t7F_EoYLBh0g9tgTxRlsUxjUI838FRoUgdx8/1600x1066.jpg",
+          "width": 1600
+        }
+      }
+    ],
+    "slug": "[[name]]",
+    "timezone": "Europe/Madrid"
+  },
+  "entityType": "location",
+  "labels": [
+    "badData",
+    "soccerStadium"
+  ],
+  "alternateProfiles": [
+    {
+      "locale": "es",
+      "content": {
+        "address": {
+          "city": "BadDataDrid",
+          "countryCode": "ES",
+          "line1": "Av. de Concha Espina",
+          "postalCode": "28036",
+          "region": "BadDataDrid"
+        },
+        "addressHidden": false
+      }
+    }
+  ]
+}
